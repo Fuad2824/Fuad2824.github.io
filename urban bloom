@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="Urban Bloom" content="width=device-width, initial-scale=1.0">
+  <title>Apnar Brand</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Apnar Brand</h1>
+    <nav>
+      <a href="#home">Home</a>
+      <a href="#products">Products</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <section id="home">
+    <h2>Welcome to Apnar Brand</h2>
+    <p>Stylish, trendy, and affordable clothes for everyone!</p>
+  </section>
+
+  <section id="products">
+    <h2>Our Products</h2>
+    <div class="product">
+      <img src="shirt1.jpg" alt="Stylish Shirt">
+      <h3>Stylish Shirt</h3>
+      <p>Price: 500 BDT</p>
+    </div>
+    <div class="product">
+      <img src="kameez1.jpg" alt="Elegant Kameez">
+      <h3>Elegant Kameez</h3>
+      <p>Price: 1200 BDT</p>
+    </div>
+    <!-- aro product add korte paro -->
+  </section>
+
+  <section id="contact">
+    <h2>Contact Us</h2>
+    <p>📞 01886479989</p>
+    <p>📧 muntasimfuad2004.com</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Apnar Brand. All rights reserved.</p>
+  </footer>
+</body>
+</html>
